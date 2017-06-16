@@ -3,5 +3,5 @@
 sometest.iml
 build/
 pom.xml
-src/
 target/
+.gitignore

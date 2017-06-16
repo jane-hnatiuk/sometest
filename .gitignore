@@ -5,3 +5,4 @@ build/
 pom.xml
 target/
 .gitignore
+git
